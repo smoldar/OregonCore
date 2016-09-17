@@ -572,6 +572,8 @@ bool IsPositiveEffect(uint32 spellId, uint32 effIndex)
                 case 23333:                                         // Warsong Flag
                 case 23335:                                         // Silverwing Flag
                 case 34976:                                         // Netherstorm Flag
+                case 23978:                                         // Speed BG Buff
+                case 40097:                                         // Restoration BG Buff
                     return true;
                 case 1852:                                          // Silenced (GM)
                 case 46392:                                         // Focused Assault
